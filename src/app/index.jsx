@@ -1,6 +1,6 @@
 import { Link } from 'expo-router';
 import { Component } from 'react';
-import { Text, View } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
 export class index extends Component {
   render() {
     return (
